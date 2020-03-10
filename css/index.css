@@ -473,3 +473,22 @@ padding: 100px;
   display: flex;
   justify-content: center;
 }
+.footer-content{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 100px;
+  padding: 100px;
+}
+.address {
+  padding: 30px;
+}
+.phone {
+  padding: 30px;
+}
+.e-mail {
+  padding: 30px;
+}
+.newsletter {
+  padding: 80px;
+
+}
