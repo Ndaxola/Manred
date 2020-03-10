@@ -1,0 +1,427 @@
+  html,body{
+    margin: 0;
+    padding: 0;
+   font-family: 'Playfair Display', serif;
+
+  }
+  .flags{
+    float: right;
+    margin-top: -120px;
+    margin-right: -100px;
+  }
+  .logo{
+    font-size: 40px;
+  }
+  h6{
+    font-size: 14px;
+    margin-top: -60px;
+    padding-left: 40px;
+  }
+  .top-navigation{
+    margin-left: -30px;
+    margin-top: -350px;
+    color: #fff;
+  }
+  .navigationbar ul{
+    list-style: none;
+    text-align: center;
+    margin-top: -110px;
+    margin-right: -400px;
+  }
+  .navigationbar ul li{
+    display: inline-grid;
+    padding: 15px;
+  }
+  .navigationbar ul li a{
+    text-decoration: none;
+    color: #fff;
+  }
+  #background{
+  background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("../images/elephants.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 400px;
+  }
+  ::placeholder{
+    color: #fff;
+  }
+  .input-icon img{
+    margin-left: -30px;
+  }
+  hr{
+    width: 20px;
+    margin-left: -2px;
+  }
+  .homepage h1{
+    font-size: 50px;
+    margin-bottom: 10px;
+  }
+  .homepage{
+    text-align: left;
+    padding-top: 70px;
+    margin-left: 150px;
+    color: #fff;
+  }
+  .btn-1 button{
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+  }
+  #knop-1{
+    background-color: #DAAC78;
+    border: 2px solid #DAAC78;
+    color: #fff;
+  }
+  #knop-2{
+    background: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+  }
+  .input-content{
+    float: right;
+  }
+
+  .input-content div{
+  margin: 15px;
+
+  }
+  .input-date input{
+    height: 20px;
+    width: 200px;
+    text-align: center;
+    background-color: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+      border-radius: 3px;
+  }
+  .output-date input{
+    height: 20px;
+    width: 200px;
+    text-align: center;
+    background-color: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+      border-radius: 3px;
+  }
+  .room-type input{
+    height: 20px;
+    width: 200px;
+    text-align: center;
+    background-color: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+      border-radius: 3px;
+  }
+  .adults input{
+    height: 20px;
+    width: 200px;
+    text-align: center;
+    background-color: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+    border-radius: 3px;
+  }
+  .btn-2 button{
+    margin-left:4px;
+    width: 200px;
+    height: 40px;
+    background-color: #DAAC78;
+    border: 2px solid #DAAC78;
+    color: #fff;
+      border-radius: 2px;
+  }
+  .welcome-slide{
+    text-align: center;
+    margin-top: 50px;
+  }
+  .welcome-slide h5{
+  margin-top: -13px;
+  color: #a3a3a3;
+  }
+  .welcome-menu{
+  text-align: justify;
+  margin: 0 auto;
+  width: 85%;
+
+  }
+  .group-1 {
+    display: flex;
+    justify-content: space-between;
+  }
+  .group-2{
+    display: flex;
+    justify-content: space-between;
+
+  }
+
+  .Luxury-Accomodation{
+  display: flex;
+  }
+  .Finest-Cuisine{
+    display: flex;
+  }
+  .Easy-Access{
+    display: flex;
+  }
+  .Shopping-Center{
+      display: flex;
+  }
+  .Spa-And-Relaxation{
+    display: flex;
+  }
+  .Award-Winning{
+    display: flex;
+  }
+  .icons-left img{
+    margin-top: 15px;
+    margin-left: -80px;
+    padding: 20px;
+    background: #DAAC78;
+    border: 2px solid #DAAC78;
+
+  }
+  .ndaxola{
+    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("../images/slide-3.jpeg");
+    background-position: center;
+    background-size: cover;
+    height: 420px;
+  }
+  .grid-items {
+    display: flex;
+    justify-content: space-between;
+    width: 85%;
+    margin: 0 auto;
+    color: #fff;
+    padding-top: 80px;
+  }
+  .grid-items div {
+    background: linear-gradient(rgba(234,235,237,.3),rgba(234,235,237,.3));
+    border: 1px solid white;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    border-radius: 20px;
+
+  }
+  .horizon-deep{
+   margin-left: 90px;
+   text-align: center;
+  }
+  .resort-info{
+    text-align: center;
+    padding: 100px;
+  }
+  .resort-info h5{
+    margin-top: -20px;
+    color: #a3a3a3;
+  }
+  .The-resort{
+    display: flex;
+  justify-content: center;
+  margin-top: -100px;
+  }
+  .The-resort div{
+    text-align: center;
+    padding: 15px;
+    border: 1px solid #a3a3a3;
+  }
+  .BED{
+    background:  #DAAC78;
+    color: #fff;
+  border: 1px solid #DAAC78;
+  }
+  .slide-image img{
+  width:800px;
+  padding:150px;
+  }
+  .text{
+    float: right;
+    padding-right: 150px;
+    margin-top: -590px;
+  }
+  .list ul{
+    list-style: none;
+  }
+  .list button{
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #DAAC78;
+    border: 2px solid #DAAC78;
+    color: #fff;
+  }
+  #spot{
+    background: transparent;
+    color:#000;
+  }
+  .opinion {
+    text-align: right;
+    margin-top: -464px;
+    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("../images/zebras.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: 680px;
+    padding: 180px;
+    width: 900px;
+    color: #fff;
+    height: 104px;
+  }
+  .guestbook {
+    margin-left: 0;
+    background: #DAAC78;
+    padding: 91px;
+    color: #fff;
+  }
+
+  #guestbutton {
+    width: 200px;
+    height: 50px;
+  }
+  .opinion h6 {
+    text-align: center;
+    margin-top: 100px;
+  }
+
+  .opinion p {
+    text-align: center;
+  }
+
+  .opinion hr {
+    width: 50px;
+    margin-left: 440px;
+  }
+  .guestbook hr {
+    margin-left: 125px;
+  }
+  .popular{
+    text-align: center;
+  }
+  .popular{
+    margin-top: 120px;
+  }
+  .popular h5{
+    margin-top: -10px;
+  }
+  .rooms {
+  display: flex;
+  justify-content: space-between;
+  color: #cdcdcd;
+  padding:50px;
+  margin:0;
+  }
+  .room-1{
+    border: 2px solid #cdcdcdcd;
+    padding: 3px;
+    height: 560px;
+  }
+  .room1-image img{
+      width: 500px;
+      margin-left: 1px;
+  }
+  .room-1 button{
+    margin-left: 150px;
+    padding: 10px;
+    width: 150px;
+    border-radius: 5px;
+    background: #DAAC78;
+    border: 2px solid #DAAC78;
+    color: #fff;
+
+  }
+  .room-1 b{
+    font-size: 40px;
+    color: #000;
+  }
+  .room-1 h3 {
+    background: #DAAC78;
+    padding: 15px;
+    color: #fff;
+    margin-top: -4px;
+  }
+  .room-1 h3 img{
+  padding-left: 300px;
+  }
+  .room-2{
+    border: 2px solid #cdcdcdcd;
+    padding: 3px;
+    height: 560px;
+  }
+  .room2-image img{
+      width: 500px;
+      margin-left:1px;
+  }
+  .room-2 button{
+    margin-left: 150px;
+    padding: 10px;
+    width: 150px;
+    border-radius: 5px;
+    background: #DAAC78;
+    border: 2px solid #DAAC78;
+    color: #fff;
+
+  }
+  .room-2 b{
+    font-size: 40px;
+    color: #000;
+  }
+  .room-2 h3 {
+    background: #DAAC78;
+    padding: 15px;
+    color: #fff;
+    margin-top: -4px;
+  }
+  .room-2 h3 img{
+  padding-left: 300px;
+  }
+  .room-3{
+    border: 2px solid #cdcdcdcd;
+    padding: 3px;
+    height: 560px;
+  }
+  .room3-image img{
+      width: 500px;
+      margin-left: 1px;
+  }
+  .room-3 button{
+    margin-left: 150px;
+    padding: 10px;
+    width: 150px;
+    border-radius: 5px;
+    background: #DAAC78;
+    border: 2px solid #DAAC78;
+    color: #fff;
+  }
+  .room-3 b{
+    font-size: 40px;
+    color: #000;
+  }
+  .room-3 h3 {
+    background: #DAAC78;
+    padding: 15px;
+    color: #fff;
+    margin-top: -4px;
+  }
+  .room-3 h3 img{
+  padding-left: 260px;
+  }
+  .take-a-tour{
+    margin: 100px;
+  }
+  .tour-slide h2{
+    color: #fff;
+    margin-top: -90px;
+    font-size: 50px;
+  }
+  .tour-slide p{
+    color: #fff;
+    margin:90px;
+    font-size:35px;
+  }
+  .tour-slide{
+    text-align: center;
+    padding: 160px;
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),url("../images/playvideo.jpeg");
+    background-size: cover;
+    background-position: center;
+  }
