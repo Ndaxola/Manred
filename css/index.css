@@ -425,3 +425,51 @@
     background-size: cover;
     background-position: center;
   }
+
+
+#druk{
+  width: 150px;
+  height: 40px;
+  border-radius: 20px;
+  background-color: #DAAC78;
+  border: 2px solid #DAAC78;
+  color: #fff;
+}
+.upcoming{
+  text-align: center;
+  margin-top: 70px;
+}
+.upcoming h6{
+  margin-top: 25px;
+}
+.upcoming-content img{
+  width:560px;
+  height: 600px;
+
+}
+.upcoming-text {
+  border: 1px solid #cdcdcdcd;
+  width: 500px;
+padding: 100px;
+}
+.social-icons{
+  display: flex;
+  margin-left: 300px;
+  margin-top: -40px;
+}
+.icons8-1{
+  border: 2px solid #cdcdcd;
+  padding: 10px;
+  border-radius: 30px;
+}
+.icons8-2{
+
+  border: 2px solid #cdcdcd;
+  margin-left: 20px;
+  padding: 10px;
+  border-radius: 30px;
+}
+.last-slide {
+  display: flex;
+  justify-content: center;
+}
