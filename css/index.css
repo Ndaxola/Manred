@@ -6,11 +6,13 @@
   }
   .flags{
     float: right;
-    margin-top: -120px;
+    margin-top: -100px;
     margin-right: -100px;
   }
   .logo{
     font-size: 40px;
+    margin-left: -300px;
+    padding-bottom: 380px;
   }
   h6{
     font-size: 14px;
@@ -25,16 +27,20 @@
   .navigationbar ul{
     list-style: none;
     text-align: center;
-    margin-top: -110px;
+    margin-top: -470px;
     margin-right: -400px;
   }
   .navigationbar ul li{
     display: inline-grid;
-    padding: 15px;
+    padding: 20px;
   }
   .navigationbar ul li a{
     text-decoration: none;
     color: #fff;
+  }
+  .navigationbar ul {
+
+
   }
   #background{
   background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("../images/elephants.jpeg");
@@ -60,7 +66,7 @@
   .homepage{
     text-align: left;
     padding-top: 70px;
-    margin-left: 150px;
+    margin-left: -150px;
     color: #fff;
   }
   .btn-1 button{
@@ -80,6 +86,7 @@
   }
   .input-content{
     float: right;
+
   }
 
   .input-content div{
@@ -129,11 +136,23 @@
     background-color: #DAAC78;
     border: 2px solid #DAAC78;
     color: #fff;
-      border-radius: 2px;
+    border-radius: 2px;
   }
+
+  .radio-button {
+    text-align: center;
+    margin-left:490px;
+  }
+  .circles-row {
+    display:flex;
+    margin-top: -100px;
+    padding-left: 300px;
+  }
+
+
   .welcome-slide{
     text-align: center;
-    margin-top: 50px;
+    margin-top: 100px;
   }
   .welcome-slide h5{
   margin-top: -13px;
@@ -257,15 +276,14 @@
   }
   .opinion {
     text-align: right;
-    margin-top: -464px;
+    margin-top: -450px;
     background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("../images/zebras.jpeg");
     background-repeat: no-repeat;
     background-position: center;
     margin-left: 680px;
-    padding: 180px;
-    width: 900px;
+    padding: 175px;
     color: #fff;
-    height: 104px;
+    height: 100px;
   }
   .guestbook {
     margin-left: 0;
