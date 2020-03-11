@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
    font-family: 'Playfair Display', serif;
-
+   scroll-behavior: smooth;
   }
   .flags{
     float: right;
@@ -478,17 +478,46 @@ padding: 100px;
   justify-content: space-between;
   margin-top: 100px;
   padding: 100px;
+  background: #3c3d41;
+  color: #a3a3a3;
 }
 .address {
-  padding: 30px;
+  padding: 80px;
+  margin-left: -50px;
 }
 .phone {
-  padding: 30px;
+  padding: 20px;
+  margin-top: -50px;
+  margin-left: 20px;
 }
 .e-mail {
   padding: 30px;
+  margin-left: 10px;
 }
 .newsletter {
   padding: 80px;
-
+  margin-left: -80px;
+}
+.footer-content0 {
+ margin-top: -50px;
+}
+.Twitter-feed {
+  padding: 80px;
+  margin-left: -80px;
+}
+.Flickr-pics {
+  padding: 100px;
+  margin-left: -90px;
+}
+.Flickr-pics img{
+  width: 200px;
+}
+.lets-connect ul {
+  list-style: none;
+}
+.lets-connect img {
+  border: 1px solid #666;
+  border-radius: 20px;
+  padding: 6px;
+  background: #666;
 }
